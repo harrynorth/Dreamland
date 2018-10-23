@@ -1,0 +1,1064 @@
+﻿Log file open, 10/23/18 20:17:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Dreamland
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(622669605) SRandInit(622669605).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169179
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.596s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-VJNJEKN (192.168.0.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.23-19.17.04:499][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-19.17.04:499][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.23-19.17.04:511][  0]LogInit: Computer: DESKTOP-VJNJEKN
+[2018.10.23-19.17.04:511][  0]LogInit: User: hnort
+[2018.10.23-19.17.04:511][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.23-19.17.04:511][  0]LogInit: High frequency timer resolution =2.929686 MHz
+[2018.10.23-19.17.04:511][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.23-19.17.04:511][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.23-19.17.04:511][  0]LogMemory: Process Physical Memory: 273.81 MB used, 273.81 MB peak
+[2018.10.23-19.17.04:511][  0]LogMemory: Process Virtual Memory: 264.02 MB used, 264.02 MB peak
+[2018.10.23-19.17.04:511][  0]LogMemory: Physical Memory: 6342.48 MB used,  9984.80 MB free, 16327.29 MB total
+[2018.10.23-19.17.04:511][  0]LogMemory: Virtual Memory: 4784.01 MB used,  9984.80 MB free, 134217728.00 MB total
+[2018.10.23-19.17.04:525][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.23-19.17.04:525][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.23-19.17.04:527][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.23-19.17.04:946][  0]LogStreaming: Display: Took  0.421s to EndInitTextLocalization.
+[2018.10.23-19.17.04:946][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.23-19.17.04:970][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.23-19.17.04:970][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.23-19.17.05:124][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.23-19.17.05:173][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.10.23-19.17.05:173][  0]LogD3D11RHI:       2988/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.23-19.17.05:174][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.23-19.17.05:174][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.23-19.17.05:174][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.23-19.17.05:179][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.23-19.17.05:179][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.23-19.17.05:180][  0]LogWindows: EnumDisplayDevices:
+[2018.10.23-19.17.05:180][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.10.23-19.17.05:180][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.10.23-19.17.05:180][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.10.23-19.17.05:180][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.10.23-19.17.05:180][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.23-19.17.05:180][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.10.23-19.17.05:180][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.23-19.17.05:180][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.23-19.17.05:180][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.10.23-19.17.05:218][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.23-19.17.05:218][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.23-19.17.05:218][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.23-19.17.05:253][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.23-19.17.05:301][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Intermediate/Shaders/WorkingDirectory/14796/).
+[2018.10.23-19.17.05:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hnort/AppData/Local/Temp/UnrealShaderWorkingDir/98BACFEE4596B0235706ABBE70B507CF/'.
+[2018.10.23-19.17.05:484][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.23-19.17.05:503][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.23-19.17.05:515][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.23-19.17.05:526][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.23-19.17.05:539][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.23-19.17.05:551][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.23-19.17.05:562][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.23-19.17.05:574][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.23-19.17.05:579][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.23-19.17.05:591][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.23-19.17.05:602][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.23-19.17.05:613][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.23-19.17.05:624][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.23-19.17.05:635][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.23-19.17.05:646][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.23-19.17.05:668][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.23-19.17.05:668][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.23-19.17.05:679][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-19.17.05:680][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.23-19.17.05:716][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-19.17.05:727][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-19.17.05:738][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.23-19.17.05:749][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.23-19.17.05:760][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.23-19.17.05:771][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.23-19.17.05:771][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.23-19.17.05:846][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.23-19.17.05:846][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.23-19.17.05:846][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.23-19.17.06:445][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/hnort/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hnort/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.23-19.17.06:506][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.23-19.17.06:521][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.23-19.17.06:534][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hnort/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.23-19.17.06:534][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.23-19.17.06:534][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.23-19.17.06:545][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.23-19.17.06:546][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.23-19.17.06:546][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.23-19.17.06:546][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.23-19.17.06:645][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.10.23-19.17.06:922][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-19.17.07:049][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.23-19.17.07:051][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.23-19.17.07:051][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.23-19.17.07:051][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.23-19.17.07:051][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.23-19.17.07:051][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.23-19.17.07:079][  0]LogNetVersion: Dreamland , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 271755495)
+[2018.10.23-19.17.07:485][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.059268 seconds
+[2018.10.23-19.17.07:491][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.23-19.17.07:491][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.10.23-19.17.07:491][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.23-19.17.08:899][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.23-19.17.08:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.23-19.17.09:171][  0]SourceControl: Source control is disabled
+[2018.10.23-19.17.09:171][  0]SourceControl: Source control is disabled
+[2018.10.23-19.17.09:181][  0]SourceControl: Source control is disabled
+[2018.10.23-19.17.09:192][  0]SourceControl: Source control is disabled
+[2018.10.23-19.17.09:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.23-19.17.09:665][  0]LogOcInput: OculusInput pre-init called
+[2018.10.23-19.17.09:748][  0]LogEngine: Initializing Engine...
+[2018.10.23-19.17.09:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-19.17.09:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-19.17.09:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-19.17.09:959][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.23-19.17.09:979][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.17.09:998][  0]LogInit: FAudioDevice initialized.
+[2018.10.23-19.17.10:067][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/hnort/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.23-19.17.10:081][  0]LogInit: Texture streaming: Enabled
+[2018.10.23-19.17.10:092][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.23-19.17.10:102][  0]LogInit: Transaction tracking system initialized
+[2018.10.23-19.17.10:117][  0]BlueprintLog: New page: Editor Load
+[2018.10.23-19.17.10:166][  0]LocalizationService: Localization service is disabled
+[2018.10.23-19.17.10:240][  0]LogConsoleResponse: Display: 
+[2018.10.23-19.17.10:386][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.23-19.17.10:386][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.23-19.17.10:386][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.23-19.17.10:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-19.17.10:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-19.17.10:628][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Dreamland/Dreamland/Dreamland 4.19/Content/' took 0.01s
+[2018.10.23-19.17.10:628][  0]SourceControl: Source control is disabled
+[2018.10.23-19.17.10:628][  0]Cmd: MAP LOAD FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-19.17.10:628][  0]LightingResults: New page: Lighting Build
+[2018.10.23-19.17.10:630][  0]MapCheck: New page: Map Check
+[2018.10.23-19.17.10:630][  0]LightingResults: New page: Lighting Build
+[2018.10.23-19.17.10:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb2901c80, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.23-19.17.10:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb2901c80, Size=64
+[2018.10.23-19.17.10:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb2901dc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.23-19.17.10:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb0d08450, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.23-19.17.10:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb0ca8f40, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.23-19.17.10:740][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb0ca8f40, Size=296
+[2018.10.23-19.17.10:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb0ca8f40, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.23-19.17.10:745][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abbaf97600, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.23-19.17.10:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb14a9bc0, Size=32, Default__Trampoline_C Function /Game/Dreamland/Blueprints/Features/Trampoline.Trampoline_C:ExecuteUbergraph_Trampoline
+[2018.10.23-19.17.10:815][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb14a9bc0, Size=32
+[2018.10.23-19.17.10:815][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb14a9bc0, Size=32, Default__Trampoline_C Function /Engine/Transient.REINST_Trampoline_C_8:ExecuteUbergraph_Trampoline
+[2018.10.23-19.17.10:816][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002abb14aa220, Size=32, Default__Trampoline_C Function /Game/Dreamland/Blueprints/Features/Trampoline.Trampoline_C:ExecuteUbergraph_Trampoline
+[2018.10.23-19.17.10:902][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [11.398149ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.10.23-19.17.11:031][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.23-19.17.11:041][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-19.17.11:053][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb2901dc0, Size=64
+[2018.10.23-19.17.11:053][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb0ca8f40, Size=296
+[2018.10.23-19.17.11:053][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002abb14a9bc0, Size=32
+[2018.10.23-19.17.11:054][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-19.17.11:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.844ms to complete.
+[2018.10.23-19.17.11:091][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.464
+[2018.10.23-19.17.11:226][  0]LogCollectionManager: Loaded 0 collections in 0.000922 seconds
+[2018.10.23-19.17.11:266][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Collections/' took 0.01s
+[2018.10.23-19.17.11:267][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Dreamland/Dreamland/Dreamland 4.19/Content/Developers/hnort/Collections/' took 0.01s
+[2018.10.23-19.17.11:267][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Dreamland/Dreamland/Dreamland 4.19/Content/Collections/' took 0.01s
+[2018.10.23-19.17.11:267][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.23-19.17.11:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2452 classes and 558 folders.
+[2018.10.23-19.17.11:280][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.23-19.17.11:313][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.23-19.17.11:316][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.23-19.17.11:383][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.23-19.17.11:386][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.23-19.17.11:391][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.23-19.17.11:485][  0]LogRenderer: Reallocating scene render targets to support 1260x660 Format 10 NumSamples 1 (Frame:1).
+[2018.10.23-19.17.11:595][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.23-19.17.11:595][  0]LogLoad: (Engine Initialization) Total time: 8.63 seconds
+[2018.10.23-19.17.11:595][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.23-19.17.11:605][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.23-19.17.11:625][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.23-19.17.11:717][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-19.17.11:731][  1]LogAssetRegistry: Asset discovery search completed in 5.1085 seconds
+[2018.10.23-19.17.11:732][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.23-19.17.11:732][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.10.23-19.17.16:902][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.17.35:975][829]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.17.35:994][829]LogMaterial: Missing cached shader map for material M_Outlines1, compiling. 
+[2018.10.23-19.17.36:003][829]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.23-19.17.36:003][829]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.23-19.17.42:081][321]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.17.42:087][321]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-19.17.44:007][465]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.17.44:259][465]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.17.44:265][465]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.17.44:273][465]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.17.44:273][465]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.17.44:273][465]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.17.44:298][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.23-19.17.44:301][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.10.23-19.17.44:376][465]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.23-19.17.44:533][466]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.23-19.17.44:548][466]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.23-19.17.44:651][472]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.17.44:743][475]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.17.44:775][476]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.17.44:937][478]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.17.44:972][479]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.17.44:989][480]MaterialEditorStats: Base pass shader without light map: 76 instructions
+[2018.10.23-19.17.44:989][480]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.17.44:989][480]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.23-19.17.45:976][590]LogMaterialEditor: Saving and Compiling material M_CelShading1
+[2018.10.23-19.17.46:025][590]LogSavePackage: Save=20.94ms
+[2018.10.23-19.17.46:026][590]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_CelShading1EF83A0DB4F8B6FEEE480CFB36D34377C.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1.uasset'
+[2018.10.23-19.17.46:027][590]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1.uasset
+[2018.10.23-19.17.49:953][ 41]LogSavePackage: Save=14.03ms
+[2018.10.23-19.17.49:953][ 41]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_CelShading1_Inst1388F9774AE4BF8D1EF7C28F15DE327E.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset'
+[2018.10.23-19.17.49:955][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset
+[2018.10.23-19.17.50:967][151]LogSavePackage: Save=34.06ms
+[2018.10.23-19.17.50:967][151]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_Outlines18FE7EDA24CF7B75B0016EF8B0E88710C.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1.uasset'
+[2018.10.23-19.17.50:969][151]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1.uasset
+[2018.10.23-19.17.51:744][234]LogSavePackage: Save=14.97ms
+[2018.10.23-19.17.51:744][234]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_Outlines1_Inst990B5BE4490299F348E3E0A183683205.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset'
+[2018.10.23-19.17.51:746][234]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset
+[2018.10.23-19.18.17:539][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.19.49:058][380]LogSlate: Window 'M_Outlines1_Inst' being destroyed
+[2018.10.23-19.19.49:061][380]LogSlate: Window 'M_Outlines1_Inst' being destroyed
+[2018.10.23-19.19.52:846][621]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.19.57:209][855]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.21.04:735][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.21.24:147][331]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.10.23-19.21.24:172][331]LogSavePackage: Save=12.78ms
+[2018.10.23-19.21.24:172][331]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_CelShading1_Inst923BA70743E23112545A2B8AF2D06581.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset'
+[2018.10.23-19.21.24:174][331]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset
+[2018.10.23-19.21.32:045][265]LogSlate: Window 'M_CelShading1_Inst*' being destroyed
+[2018.10.23-19.21.32:047][265]LogSlate: Window 'M_CelShading1_Inst*' being destroyed
+[2018.10.23-19.21.32:068][265]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.10.23-19.21.38:565][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.21.42:590][453]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.21.42:606][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.21.42:607][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.21.42:607][453]PIE: New page: PIE session: ThirdPersonExampleMap (23 Oct 2018 21:21:42)
+[2018.10.23-19.21.42:607][453]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.23-19.21.42:623][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015426s)
+[2018.10.23-19.21.42:624][453]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.23-19.21.42:624][453]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2018.10.23-19.21.42:624][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017042s)
+[2018.10.23-19.21.42:648][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.21.42:662][453]LogInit: FAudioDevice initialized.
+[2018.10.23-19.21.42:751][453]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.21.42:754][453]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.23-20.21.42
+[2018.10.23-19.21.42:754][453]LogWorld: Bringing up level for play took: 0.001780
+[2018.10.23-19.21.42:757][453]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.10.23-19.21.42:757][453]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.836
+[2018.10.23-19.21.42:757][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.21.46:267][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.21.46:299][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.21.47:533][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.22.13:562][ 46]LogSavePackage: Save=98.59ms
+[2018.10.23-19.22.13:562][ 46]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/ThirdPersonExampleMap690817B147D60CDCAD91B3B0C4F0F740.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.23-19.22.13:565][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.10.23-19.22.13:759][ 46]LogSavePackage: Save=151.79ms
+[2018.10.23-19.22.13:760][ 46]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/ThirdPersonExampleMap_BuiltData1F73AE5D4869AA37271A5EA461E0DFB5.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.23-19.22.13:760][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.10.23-19.22.20:901][582]LogSlate: Window 'Save Content' being destroyed
+[2018.10.23-19.22.20:948][582]LogSavePackage: Save=13.42ms
+[2018.10.23-19.22.20:948][582]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_CelShading1_InstFD53FE19477A7E1B420193BA356FD9C9.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset'
+[2018.10.23-19.22.20:949][582]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1_Inst.uasset
+[2018.10.23-19.22.20:976][582]LogSavePackage: Save=12.65ms
+[2018.10.23-19.22.20:976][582]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_Outlines1_Inst795F03B8433B19DF92FA9EB65D703B5B.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset'
+[2018.10.23-19.22.20:978][582]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset
+[2018.10.23-19.22.20:983][582]Cmd: MAP LOAD FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-19.22.20:990][582]LightingResults: New page: Lighting Build
+[2018.10.23-19.22.20:990][582]LoadErrors: New page: Loading map: Cake.umap
+[2018.10.23-19.22.20:992][582]MapCheck: New page: Map Check
+[2018.10.23-19.22.20:992][582]LightingResults: New page: Lighting Build
+[2018.10.23-19.22.21:046][582]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.22.21:100][582]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-19.22.21:143][582]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-19.22.21:187][582]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.149ms to complete.
+[2018.10.23-19.22.21:187][582]LogFileHelpers: Loading map 'Cake' took 0.205
+[2018.10.23-19.22.21:189][582]LogSlate: Window 'Open Level' being destroyed
+[2018.10.23-19.22.24:204][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.23-19.22.26:346][176]Cmd: DELETE
+[2018.10.23-19.22.26:346][176]Cmd: ACTOR DELETE
+[2018.10.23-19.22.26:349][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-19.22.26:360][176]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.10.23-19.22.29:946][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.22.33:537][ 31]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.23-19.22.37:808][539]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.23-19.22.41:561][985]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.23-19.22.43:845][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.23.29:772][745]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.23-19.23.35:900][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.23.46:206][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.24.07:831][249]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.07:907][249]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.07:915][249]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.07:930][249]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.23-19.24.07:930][249]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.23-19.24.07:930][249]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.23-19.24.08:422][264]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.23-19.24.08:450][266]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.23-19.24.08:460][267]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.23-19.24.08:582][269]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.23-19.24.08:593][269]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.23-19.24.08:626][271]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.23-19.24.08:729][273]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.23-19.24.08:885][275]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.23-19.24.08:912][276]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.08:932][277]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.09:099][278]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.09:207][279]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.24.09:231][280]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.24.10:200][281]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.23-19.24.10:200][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.23-19.24.10:200][281]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.24.10:200][281]MaterialEditorStats: Texture samplers: 2/16
+[2018.10.23-19.24.13:710][520]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.24.13:780][520]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.24.13:785][520]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.24.13:793][520]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.13:793][520]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.13:793][520]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.13:817][520]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.23-19.24.13:820][520]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.10.23-19.24.13:973][520]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.23-19.24.14:067][521]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.14:143][522]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.14:143][522]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.14:252][523]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.24.14:301][523]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.24.14:301][523]MaterialEditorStats: Base pass shader without light map: 76 instructions
+[2018.10.23-19.24.14:301][523]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.24.14:301][523]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.23-19.24.20:253][943]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.20:280][943]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.23-19.24.20:280][943]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.23-19.24.20:280][943]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.23-19.24.20:449][945]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.23-19.24.20:449][945]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.23-19.24.20:480][948]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.23-19.24.20:609][950]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.23-19.24.20:643][952]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.23-19.24.20:643][952]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.23-19.24.20:768][954]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.23-19.24.20:944][957]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.23-19.24.21:081][967]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.21:096][968]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.21:258][970]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.21:490][982]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.24.21:490][982]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.24.21:666][988]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.21:678][988]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.21:678][988]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.21:679][988]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.21:686][988]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.21:818][989]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.21:852][990]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.21:914][991]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.22:008][992]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.24.22:009][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.24.22:198][  4]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.10.23-19.24.22:198][  4]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.24.22:198][  4]MaterialEditorStats: Texture samplers: 0/16
+[2018.10.23-19.24.25:678][269]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.25:707][270]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.24.25:707][270]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.24.25:707][270]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.24.25:834][273]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.24.25:906][275]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.24.26:015][281]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.10.23-19.24.26:015][281]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.24.26:015][281]MaterialEditorStats: Texture samplers: 0/16
+[2018.10.23-19.24.31:788][739]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.31:788][739]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.31:788][739]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.31:790][739]MaterialEditorStats: Error: [SM5] (Node If) Missing If A input
+[2018.10.23-19.24.39:708][341]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.39:709][341]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.39:709][341]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.42:488][551]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.42:488][551]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.42:488][551]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.43:975][663]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.43:975][663]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.43:975][663]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.43:977][663]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.43:977][663]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.43:977][663]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.52:593][307]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.52:593][307]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.52:594][307]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.54:872][480]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.54:872][480]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.54:872][480]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.54:875][480]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.54:875][480]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.54:875][480]LogMaterial: 	(Node If) Missing If A input
+[2018.10.23-19.24.57:444][675]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.57:444][675]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.57:445][675]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.24.57:447][675]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2018.10.23-19.24.59:409][824]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.24.59:409][824]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.24.59:409][824]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.04:791][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSceneTexture_0, compiling. 
+[2018.10.23-19.25.24:928][771]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.24:928][771]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.24:928][771]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.29:305][103]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.29:305][103]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.29:305][103]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.36:639][647]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.25.36:692][648]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.25.36:692][648]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.25.36:692][648]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.25.37:137][667]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.25.37:224][668]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.25.37:503][686]MaterialEditorStats: Base pass shader without light map: 76 instructions
+[2018.10.23-19.25.37:503][686]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.25.37:503][686]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.23-19.25.38:995][796]LogEditorTransaction: Undo Material Editor: Paste
+[2018.10.23-19.25.38:998][796]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.25.39:008][796]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.25.39:009][796]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.25.39:009][796]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.25.39:010][796]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.25.39:030][796]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.39:030][796]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.39:030][796]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.39:250][797]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.25.39:291][798]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.25.39:385][799]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.25.39:463][800]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.23-19.25.39:587][801]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.23-19.25.39:763][811]MaterialEditorStats: Base pass shader without light map: 76 instructions
+[2018.10.23-19.25.39:763][811]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.23-19.25.39:763][811]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.23-19.25.41:530][936]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.41:530][936]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.41:530][936]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.43:237][ 57]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.43:237][ 57]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.43:237][ 57]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.45:027][181]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.45:027][181]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.45:027][181]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.45:029][181]LogMaterial: Missing cached shader map for material Cel_Shader_M, compiling. 
+[2018.10.23-19.25.45:030][181]LogMaterial: Warning: /Engine/Transient.Cel_Shader_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.23-19.25.45:030][181]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2018.10.23-19.25.57:100][949]LogSlate: Window 'Message' being destroyed
+[2018.10.23-19.25.57:105][949]LogSlate: Window 'Cel_Shader_M*' being destroyed
+[2018.10.23-19.25.57:106][949]LogSlate: Window 'Cel_Shader_M*' being destroyed
+[2018.10.23-19.26.05:044][600]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.26.08:613][ 23]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.23-19.26.14:212][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.26.41:159][900]LogSlate: Window 'Select Path' being destroyed
+[2018.10.23-19.26.54:983][547]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.10.23-19.27.01:400][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.27.27:759][426]LogActorFactory: Actor Factory created Sphere
+[2018.10.23-19.27.28:502][509]LogActorFactory: Actor Factory created Sphere
+[2018.10.23-19.27.40:491][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.27.49:822][ 40]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.10.23-19.27.51:687][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.28.08:033][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.28.11:280][515]MapCheck: New page: Map Check
+[2018.10.23-19.28.11:293][515]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.23-19.28.11:294][515]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.23-19.28.11:370][515]LightingResults: New page: Lighting Build - 23 Oct 2018 21:28:11
+[2018.10.23-19.28.11:399][515]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.23-19.28.11:456][515]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.23-19.28.11:466][515]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.23-19.28.11:975][515]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.23-19.28.11:975][515]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14796
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.23-19.28.16:295][515]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.23-19.28.16:496][515]LogEditorBuildUtils: Build time 0:05
+[2018.10.23-19.28.17:799][592]Job is a success!
+[2018.10.23-19.28.17:830][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.10.23-19.28.17:853][593]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X32)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.10.23-19.28.17:889][593]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.10.23-19.28.17:926][593]Lightmass on DESKTOP-VJNJEKN: 868 ms total, 161 ms importing, 17 ms setup, 162 ms photons, 491 ms processing, 0 ms extra exporting [8/8 mappings]. Threads: 1.93 sec total, 231 ms processing.
+[2018.10.23-19.28.17:934][593]LogStaticLightingSystem: Illumination: 6.54 sec (15 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2018.10.23-19.28.17:934][593]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.10.23-19.28.17:934][593]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.10.23-19.28.18:300][593]DumpUnbuiltLightIteractions
+[2018.10.23-19.28.18:300][593]Lights with unbuilt interactions: 0
+[2018.10.23-19.28.18:300][593]
+[2018.10.23-19.28.18:300][593]Primitives with unbuilt interactions: 0
+[2018.10.23-19.28.18:304][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.28.18:357][594]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.23-19.28.18:358][594]MapCheck: New page: Cake - 23 Oct 2018 21:28:18
+[2018.10.23-19.28.18:404][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.374ms to complete.
+[2018.10.23-19.28.22:812][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.28.29:443][248]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.28.33:179][685]LogSavePackage: Save=4.74ms
+[2018.10.23-19.28.33:179][685]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_Outlines1_Inst40825D634FDC8CF5B4108794A0980DD3.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset'
+[2018.10.23-19.28.33:180][685]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1_Inst.uasset
+[2018.10.23-19.28.33:215][685]LogSavePackage: Save=23.78ms
+[2018.10.23-19.28.33:215][685]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_Outlines173FD82224F6590AFD5D99D8EE4AA4A42.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1.uasset'
+[2018.10.23-19.28.33:215][685]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_Outlines1.uasset
+[2018.10.23-19.28.41:943][714]LogSavePackage: Save=24.40ms
+[2018.10.23-19.28.41:943][714]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/CakeCEC0BAF444B3140DD5E43B997928CFA8.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap'
+[2018.10.23-19.28.41:945][714]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap
+[2018.10.23-19.28.41:994][714]LogSavePackage: Save=13.05ms
+[2018.10.23-19.28.41:994][714]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Cake_BuiltDataDB2B591B408F1E964BFADE9FBCF1A37F.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake_BuiltData.uasset'
+[2018.10.23-19.28.41:996][714]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake_BuiltData.uasset
+[2018.10.23-19.28.49:565][607]Cmd: MAP LOAD FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-19.28.49:573][607]LightingResults: New page: Lighting Build
+[2018.10.23-19.28.49:574][607]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.10.23-19.28.49:575][607]MapCheck: New page: Map Check
+[2018.10.23-19.28.49:575][607]LightingResults: New page: Lighting Build
+[2018.10.23-19.28.49:645][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.23-19.28.49:761][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-19.28.49:808][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-19.28.49:852][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.175ms to complete.
+[2018.10.23-19.28.49:852][607]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.288
+[2018.10.23-19.28.49:855][607]LogSlate: Window 'Open Level' being destroyed
+[2018.10.23-19.28.52:472][895]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.10.23-19.29.17:689][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.26:471][580]LogEditorViewport: Clicking on Actor (LMB): Trampoline_C (Trampoline)
+[2018.10.23-19.29.28:718][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.36:390][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.23-19.29.38:518][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.39:766][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.10.23-19.29.41:070][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.43:095][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.10.23-19.29.44:258][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.46:531][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.10.23-19.29.47:931][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.49:704][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.10.23-19.29.51:411][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.52:126][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.10.23-19.29.53:118][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.54:108][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.10.23-19.29.55:516][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.29.56:765][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.10.23-19.29.58:886][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.00:087][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.10.23-19.30.01:597][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.02:488][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.10.23-19.30.03:735][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.06:001][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.10.23-19.30.07:224][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.10:088][583]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.23-19.30.13:978][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.15:875][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.15:941][263]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.30.15:959][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.30.15:959][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.30.15:959][263]PIE: New page: PIE session: ThirdPersonExampleMap (23 Oct 2018 21:30:15)
+[2018.10.23-19.30.15:959][263]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.23-19.30.15:980][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021015s)
+[2018.10.23-19.30.15:981][263]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.23-19.30.15:981][263]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.10.23-19.30.15:981][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021840s)
+[2018.10.23-19.30.16:005][263]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.30.16:017][263]LogInit: FAudioDevice initialized.
+[2018.10.23-19.30.16:048][263]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.30.16:050][263]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.23-20.30.16
+[2018.10.23-19.30.16:050][263]LogWorld: Bringing up level for play took: 0.001418
+[2018.10.23-19.30.16:051][263]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.457
+[2018.10.23-19.30.16:051][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.30.20:323][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.30.20:355][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.30.25:184][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.39:932][847]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.23-19.30.42:149][847]LogSlate: Window 'Message' being destroyed
+[2018.10.23-19.30.42:584][847]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.30.42:595][847]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.23-19.30.42:595][847]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.23-19.30.42:595][847]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.23-19.30.42:609][847]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.30.42:621][847]LogMaterial: Missing cached shader map for material M_CelShading1, compiling. 
+[2018.10.23-19.30.42:637][847]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.10.23-19.30.42:653][847]LogSlate: Window 'M_CelShading1*' being destroyed
+[2018.10.23-19.30.43:095][850]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.23-19.30.43:259][852]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.23-19.30.43:395][862]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.23-19.30.52:560][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.30.53:243][994]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.30.53:260][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.30.53:260][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.30.53:261][994]PIE: New page: PIE session: ThirdPersonExampleMap (23 Oct 2018 21:30:53)
+[2018.10.23-19.30.53:261][994]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.23-19.30.53:273][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012710s)
+[2018.10.23-19.30.53:274][994]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.23-19.30.53:274][994]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.10.23-19.30.53:274][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013511s)
+[2018.10.23-19.30.53:295][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.30.53:305][994]LogInit: FAudioDevice initialized.
+[2018.10.23-19.30.53:336][994]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.30.53:337][994]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.23-20.30.53
+[2018.10.23-19.30.53:338][994]LogWorld: Bringing up level for play took: 0.001502
+[2018.10.23-19.30.53:338][994]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.255
+[2018.10.23-19.30.53:339][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.31.09:644][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.31.09:674][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.23-19.31.11:075][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.11:754][189]MapCheck: New page: Map Check
+[2018.10.23-19.31.11:764][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.11:766][189]LightingResults: New page: Lighting Build - 23 Oct 2018 21:31:11
+[2018.10.23-19.31.11:776][189]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.23-19.31.11:778][189]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.23-19.31.11:778][189]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.23-19.31.11:778][189]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.23-19.31.11:778][189]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14796
+[2018.10.23-19.31.16:298][189]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.23-19.31.16:298][189]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.23-19.31.16:298][189]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.23-19.31.16:298][189]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.23-19.31.16:298][189]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.23-19.31.16:385][189]LightingResults: Error: Level has bPrecomputeVisibility enabled but no Precomputed Visibility Volumes, precomputed visibility will not be effective.
+[2018.10.23-19.31.16:456][189]LogEditorBuildUtils: Build time 0:04
+[2018.10.23-19.31.23:344][744]Job is a success!
+[2018.10.23-19.31.23:362][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2018.10.23-19.31.23:388][745]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.10.23-19.31.24:433][745]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.10.23-19.31.24:646][745]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.10.23-19.31.24:646][745]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.10.23-19.31.24:682][745]Lightmass on DESKTOP-VJNJEKN: 7.71 sec total, 133 ms importing, 16 ms setup, 987 ms photons, 6.53 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 26.1 sec total, 8.82 sec processing.
+[2018.10.23-19.31.24:684][745]LogStaticLightingSystem: Illumination: 12.9 sec (933 ms encoding lightmaps, 211 ms encoding shadowmaps)
+[2018.10.23-19.31.24:684][745]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.10.23-19.31.24:684][745]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.23-19.31.25:306][745]DumpUnbuiltLightIteractions
+[2018.10.23-19.31.25:306][745]Lights with unbuilt interactions: 0
+[2018.10.23-19.31.25:306][745]
+[2018.10.23-19.31.25:306][745]Primitives with unbuilt interactions: 0
+[2018.10.23-19.31.25:359][746]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.23-19.31.25:360][746]MapCheck: New page: ThirdPersonExampleMap - 23 Oct 2018 21:31:25
+[2018.10.23-19.31.25:405][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.505ms to complete.
+[2018.10.23-19.31.35:018][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.31.40:947][608]LogSlate: Window 'Message Log' being destroyed
+[2018.10.23-19.31.40:950][608]LogSlate: Window 'Message Log' being destroyed
+[2018.10.23-19.31.44:005][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.44:112][971]LogSavePackage: Save=81.03ms
+[2018.10.23-19.31.44:112][971]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/ThirdPersonExampleMap03DAC8DB489BA19D19D62B884706D696.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.23-19.31.44:114][971]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.10.23-19.31.44:278][971]LogSavePackage: Save=123.78ms
+[2018.10.23-19.31.44:278][971]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/ThirdPersonExampleMap_BuiltData512C5657491C9771BC97A494DC926396.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.23-19.31.44:280][971]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.10.23-19.31.45:746][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.47:046][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.59:300][518]LogSlate: Window 'Save Content' being destroyed
+[2018.10.23-19.31.59:310][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.59:355][518]LogSavePackage: Save=19.22ms
+[2018.10.23-19.31.59:355][518]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/M_CelShading182B5C38F4CB40CB45A0D28ADC40C2E29.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1.uasset'
+[2018.10.23-19.31.59:357][518]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Others/Materials/Post-Processing/M_CelShading1.uasset
+[2018.10.23-19.31.59:362][518]Cmd: MAP LOAD FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-19.31.59:366][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.31.59:369][518]LightingResults: New page: Lighting Build
+[2018.10.23-19.31.59:370][518]LoadErrors: New page: Loading map: Cake.umap
+[2018.10.23-19.31.59:371][518]MapCheck: New page: Map Check
+[2018.10.23-19.31.59:371][518]LightingResults: New page: Lighting Build
+[2018.10.23-19.31.59:430][518]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.31.59:537][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-19.31.59:581][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-19.31.59:624][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.343ms to complete.
+[2018.10.23-19.31.59:624][518]LogFileHelpers: Loading map 'Cake' took 0.264
+[2018.10.23-19.31.59:627][518]LogSlate: Window 'Open Level' being destroyed
+[2018.10.23-19.32.14:994][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.32.23:019][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.32.23:085][280]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.32.23:102][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.32.23:102][280]PIE: New page: PIE session: Cake (23 Oct 2018 21:32:23)
+[2018.10.23-19.32.23:103][280]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.32.23:107][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003838s)
+[2018.10.23-19.32.23:107][280]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.32.23:107][280]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.10.23-19.32.23:107][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.004668s)
+[2018.10.23-19.32.23:128][280]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.32.23:139][280]LogInit: FAudioDevice initialized.
+[2018.10.23-19.32.23:171][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.32.23:172][280]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.32.23
+[2018.10.23-19.32.23:172][280]LogWorld: Bringing up level for play took: 0.000708
+[2018.10.23-19.32.23:174][280]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake -0.419
+[2018.10.23-19.32.27:345][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.10.23-19.32.29:861][ 61]Cmd: SELECT NONE
+[2018.10.23-19.32.37:054][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.32.42:844][602]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.23-19.32.44:038][741]Cmd: DELETE
+[2018.10.23-19.32.44:038][741]Cmd: ACTOR DELETE
+[2018.10.23-19.32.44:039][741]LogEditorActor: Deleted Actor: PlayerStart
+[2018.10.23-19.32.44:051][741]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.10.23-19.32.45:279][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.32.52:406][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.33.03:483][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.33.03:500][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.33.03:500][965]PIE: New page: PIE session: Cake (23 Oct 2018 21:33:03)
+[2018.10.23-19.33.03:500][965]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.33.03:503][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003160s)
+[2018.10.23-19.33.03:503][965]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.33.03:504][965]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.10.23-19.33.03:504][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.003945s)
+[2018.10.23-19.33.03:554][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.33.03:565][965]LogInit: FAudioDevice initialized.
+[2018.10.23-19.33.03:595][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.33.03:597][965]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.33.03
+[2018.10.23-19.33.03:598][965]LogWorld: Bringing up level for play took: 0.002147
+[2018.10.23-19.33.03:600][965]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake 0.006
+[2018.10.23-19.33.13:153][ 75]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.10.23-19.33.16:154][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.33.16:181][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.33.22:176][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.33.22:195][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.33.22:195][129]PIE: New page: PIE session: Cake (23 Oct 2018 21:33:22)
+[2018.10.23-19.33.22:195][129]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.33.22:198][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003399s)
+[2018.10.23-19.33.22:199][129]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.33.22:199][129]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.10.23-19.33.22:199][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.004147s)
+[2018.10.23-19.33.22:251][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.33.22:262][129]LogInit: FAudioDevice initialized.
+[2018.10.23-19.33.22:296][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.33.22:298][129]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.33.22
+[2018.10.23-19.33.22:298][129]LogWorld: Bringing up level for play took: 0.001355
+[2018.10.23-19.33.22:300][129]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake 0.706
+[2018.10.23-19.33.27:456][735]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.10.23-19.33.27:570][736]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.10.23-19.33.30:814][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.33.40:533][188]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.10.23-19.33.41:966][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.34.04:705][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.34.10:415][729]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.34.10:433][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.34.10:433][729]PIE: New page: PIE session: Cake (23 Oct 2018 21:34:10)
+[2018.10.23-19.34.10:433][729]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.34.10:437][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003688s)
+[2018.10.23-19.34.10:437][729]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.34.10:437][729]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.10.23-19.34.10:437][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.004658s)
+[2018.10.23-19.34.10:457][729]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.34.10:468][729]LogInit: FAudioDevice initialized.
+[2018.10.23-19.34.10:499][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.34.10:501][729]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.34.10
+[2018.10.23-19.34.10:501][729]LogWorld: Bringing up level for play took: 0.001507
+[2018.10.23-19.34.10:503][729]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake 0.91
+[2018.10.23-19.34.15:135][272]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.10.23-19.34.18:130][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.34.36:753][827]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.34.36:771][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.34.36:771][827]PIE: New page: PIE session: Cake (23 Oct 2018 21:34:36)
+[2018.10.23-19.34.36:771][827]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.34.36:775][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003244s)
+[2018.10.23-19.34.36:775][827]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.34.36:775][827]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.10.23-19.34.36:775][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.003966s)
+[2018.10.23-19.34.36:826][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.34.36:837][827]LogInit: FAudioDevice initialized.
+[2018.10.23-19.34.36:869][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.34.36:871][827]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.34.36
+[2018.10.23-19.34.36:871][827]LogWorld: Bringing up level for play took: 0.001274
+[2018.10.23-19.34.36:873][827]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake -0.721
+[2018.10.23-19.34.40:486][248]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.10.23-19.34.41:662][378]Cmd: DELETE
+[2018.10.23-19.34.41:662][378]Cmd: ACTOR DELETE
+[2018.10.23-19.34.41:663][378]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2018.10.23-19.34.41:700][378]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.10.23-19.34.44:037][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.34.44:144][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.23-19.34.44:161][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-19.34.44:161][670]PIE: New page: PIE session: Cake (23 Oct 2018 21:34:44)
+[2018.10.23-19.34.44:161][670]LogPlayLevel: Creating play world package: /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake
+[2018.10.23-19.34.44:165][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003269s)
+[2018.10.23-19.34.44:165][670]LogAIModule: Creating AISystem for world Cake
+[2018.10.23-19.34.44:165][670]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.10.23-19.34.44:166][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dreamland/Stages/Fast/CakeLevel/Cake.Cake to /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake (0.004154s)
+[2018.10.23-19.34.44:185][670]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-19.34.44:196][670]LogInit: FAudioDevice initialized.
+[2018.10.23-19.34.44:227][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.23-19.34.44:228][670]LogWorld: Bringing World /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake.Cake up for play (max tick rate 0) at 2018.10.23-20.34.44
+[2018.10.23-19.34.44:228][670]LogWorld: Bringing up level for play took: 0.000584
+[2018.10.23-19.34.44:230][670]PIE: Play in editor start time for /Game/Dreamland/Stages/Fast/CakeLevel/UEDPIE_0_Cake 0.637
+[2018.10.23-19.34.49:310][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.35.49:082][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.39.47:314][ 46]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.23-19.39.58:741][381]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.10.23-19.39.58:997][381]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ac1a0f4d30, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.23-19.39.58:998][381]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ac1a0f4d28, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.23-19.41.17:419][643]LogSavePackage: Save=22.29ms
+[2018.10.23-19.41.17:419][643]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Cake6D238EC042CC58DDF1D169A537283DB0.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap'
+[2018.10.23-19.41.17:421][643]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Stages/Fast/CakeLevel/Cake.umap
+[2018.10.23-19.41.17:454][643]LogFileHelpers: Saving map 'Cake' took 0.132
+[2018.10.23-19.41.17:457][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dreamland/Blueprints/Controllers/Lily" FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset" SILENT=true
+[2018.10.23-19.41.17:470][643]LogSavePackage: Save=11.62ms
+[2018.10.23-19.41.17:470][643]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Lily21FD36634851833BAE1831AFEF2D8BD0.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset'
+[2018.10.23-19.41.17:472][643]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset
+[2018.10.23-19.41.17:688][643]LogSavePackage: Save=204.56ms
+[2018.10.23-19.41.17:688][643]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/ThirdPersonGameModeF9962762424788832F3C50B94E802DAC.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.10.23-19.41.17:690][643]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.10.23-19.41.21:676][880]LogRenderer: Reallocating scene render targets to support 1260x696 Format 10 NumSamples 1 (Frame:2734).
+[2018.10.23-19.41.41:538][945]LogRenderer: Reallocating scene render targets to support 1260x700 Format 10 NumSamples 1 (Frame:4817).
+[2018.10.23-19.41.42:189][ 14]LogSlate: Window 'Lily' being destroyed
+[2018.10.23-19.42.33:198][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.43.58:138][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.44.08:782][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.44.22:969][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.45.45:746][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.46.02:440][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-19.46.03:671][119]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.10.23-19.46.03:671][119]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.10.23-19.46.06:019][397]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.23-19.46.18:129][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-19.51.17:951][211]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Dreamland/Stages/Fast/CakeLevel/Cake' took 0.022
+[2018.10.23-19.51.17:952][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dreamland/Blueprints/Controllers/Lily] ([1] browsable assets)...
+[2018.10.23-19.51.17:953][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dreamland/Blueprints/Controllers/Lily]
+[2018.10.23-19.51.17:973][211]LogSavePackage: Save=11.61ms
+[2018.10.23-19.51.17:973][211]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Lily_Auto19EE6916944B1A4FA754F3F97428A6ED2.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Autosaves/Game/Dreamland/Blueprints/Controllers/Lily_Auto1.uasset'
+[2018.10.23-19.51.17:973][211]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Autosaves/Game/Dreamland/Blueprints/Controllers/Lily_Auto1.uasset
+[2018.10.23-19.51.17:973][211]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.10.23-20.22.17:628][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-20.22.22:045][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-20.22.26:335][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dreamland/Blueprints/Controllers/Lily" FILE="../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset" SILENT=true
+[2018.10.23-20.22.26:358][582]LogSavePackage: Save=15.04ms
+[2018.10.23-20.22.26:358][582]LogSavePackage: Moving '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Saved/Lily2DFF0BD14DA9EB6886712E83E2DCFD5E.tmp' to '../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset'
+[2018.10.23-20.22.26:359][582]LogSavePackage: Display: Finished SavePackage ../../../../../Github/Dreamland/Dreamland/Dreamland 4.19/Content/Dreamland/Blueprints/Controllers/Lily.uasset
